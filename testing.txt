@@ -1,1 +1,3 @@
 this test git from GUI
+
+changed 2
